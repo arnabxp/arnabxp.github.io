@@ -1,2 +1,2 @@
-# rimijoker.github.io
-Terminal based portfolio website
+# CodeNerve.github.io
+Terminal based portfolio website for CodeNerve
