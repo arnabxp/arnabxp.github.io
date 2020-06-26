@@ -98,7 +98,7 @@ var main = (function () {
     };
     
     var isURL = function (str) {
-        return (str.startsWith("http") || str.startsWith("www")) && str.indexOf(" ") === -1 && str.indexOf("\n") === -1;
+        return (str.startsWith("https") || str.startsWith("www")) && str.indexOf(" ") === -1 && str.indexOf("\n") === -1;
     };
     
     /**
